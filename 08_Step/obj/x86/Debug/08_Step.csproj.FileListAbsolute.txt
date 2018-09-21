@@ -1,0 +1,56 @@
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3\08_Step\08_Step\bin\Debug\08_Step.exe
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3\08_Step\08_Step\bin\Debug\08_Step.pdb
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3\08_Step\08_Step\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3\08_Step\08_Step\obj\x86\Debug\_08_Step.Properties.Resources.resources
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3\08_Step\08_Step\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3\08_Step\08_Step\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3\08_Step\08_Step\obj\x86\Debug\08_Step.exe
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3\08_Step\08_Step\obj\x86\Debug\08_Step.pdb
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\08_Step.exe
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\08_Step.pdb
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\bin\Debug\08_Step.exe
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\bin\Debug\08_Step.pdb
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\_08_Step.Properties.Resources.resources
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Personal_1\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\08_Step.exe
+D:\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\08_Step.pdb
+D:\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\bin\Debug\08_Step.exe
+D:\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\bin\Debug\08_Step.pdb
+D:\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\_08_Step.Properties.Resources.resources
+D:\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Courses_1\Graphics\Lectures_3D\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\aa\Desktop\ToBe\Graphics_2\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\08_Step.exe
+C:\Users\aa\Desktop\ToBe\Graphics_2\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\08_Step.pdb
+C:\Users\aa\Desktop\ToBe\Graphics_2\Lec_3_Camera\08_Step\08_Step\bin\Debug\08_Step.exe
+C:\Users\aa\Desktop\ToBe\Graphics_2\Lec_3_Camera\08_Step\08_Step\bin\Debug\08_Step.pdb
+C:\Users\aa\Desktop\ToBe\Graphics_2\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\aa\Desktop\ToBe\Graphics_2\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\_08_Step.Properties.Resources.resources
+C:\Users\aa\Desktop\ToBe\Graphics_2\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\aa\Desktop\ToBe\Graphics_2\Lec_3_Camera\08_Step\08_Step\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Karim Kamel 130151 Ass.3\08_Step\obj\x86\Debug\08_Step.exe
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Karim Kamel 130151 Ass.3\08_Step\obj\x86\Debug\08_Step.pdb
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Karim Kamel 130151 Ass.3\08_Step\bin\Debug\08_Step.exe
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Karim Kamel 130151 Ass.3\08_Step\bin\Debug\08_Step.pdb
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Karim Kamel 130151 Ass.3\08_Step\obj\x86\Debug\08_Step.csprojResolveAssemblyReference.cache
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Karim Kamel 130151 Ass.3\08_Step\obj\x86\Debug\_08_Step.Form1.resources
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Karim Kamel 130151 Ass.3\08_Step\obj\x86\Debug\_08_Step.Properties.Resources.resources
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Karim Kamel 130151 Ass.3\08_Step\obj\x86\Debug\08_Step.csproj.GenerateResource.Cache
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Quiz 2 Karim Kamel 130151\08_Step\obj\x86\Debug\08_Step.exe
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Quiz 2 Karim Kamel 130151\08_Step\obj\x86\Debug\08_Step.pdb
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Quiz 2 Karim Kamel 130151\08_Step\bin\Debug\08_Step.exe
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Quiz 2 Karim Kamel 130151\08_Step\bin\Debug\08_Step.pdb
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Quiz 2 Karim Kamel 130151\08_Step\obj\x86\Debug\08_Step.csprojResolveAssemblyReference.cache
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Quiz 2 Karim Kamel 130151\08_Step\obj\x86\Debug\_08_Step.Form1.resources
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Quiz 2 Karim Kamel 130151\08_Step\obj\x86\Debug\_08_Step.Properties.Resources.resources
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Quiz 2 Karim Kamel 130151\08_Step\obj\x86\Debug\08_Step.csproj.GenerateResource.Cache
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Graphics 2 Project\08_Step\obj\x86\Debug\08_Step.exe
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Graphics 2 Project\08_Step\obj\x86\Debug\08_Step.pdb
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Graphics 2 Project\08_Step\bin\Debug\08_Step.exe
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Graphics 2 Project\08_Step\bin\Debug\08_Step.pdb
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Graphics 2 Project\08_Step\obj\x86\Debug\08_Step.csprojResolveAssemblyReference.cache
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Graphics 2 Project\08_Step\obj\x86\Debug\_08_Step.Form1.resources
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Graphics 2 Project\08_Step\obj\x86\Debug\_08_Step.Properties.Resources.resources
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\Graphics 2 Project\08_Step\obj\x86\Debug\08_Step.csproj.GenerateResource.Cache
